@@ -62,6 +62,7 @@ MarketChecklist/
 │      └── logo.png
 ├── src/
 │      ├── pages/
+|          |──  Login.js
 │          └──  Home.js
 ├── .gitignore
 ├── App.js     
@@ -73,6 +74,10 @@ MarketChecklist/
 ```
 
 # Sessões do Aplicativo
+
+- **Login.js:**
+
+   - Tela onde realiza seu cadastro, ou se ja houver um cadastro você apenas ira ter que fazer o login.
 
 - **Home.js:**
 
@@ -207,19 +212,11 @@ eas build -p android --profile preview
 
 
 
+## Criadoras do Projeto
 
+- Este projeto foi criado por Carla Coder e Leticia Hofman. Carla e Leticia são desenvolvedoras de software adquirindo experiência em diversas tecnologias e atualmente focada no desenvolvimento de aplicações mobile e web.
+- Criamos este aplicativo para facilitar seu dia a dia como dona de casa. Quem sabe ela consiga facilitar a sua vida também. Experimente o aplicativo e depois me conte.
 
-
-
-
-
-
-
-
-## Criador do Projeto
-
-- Este projeto foi criado por Carla Coder. Carla é uma desenvolvedora de software adquirindo experiência em diversas tecnologias e atualmente focada no desenvolvimento de aplicações mobile e web.
-- Carla criou este aplicativo para facilitar seu dia a dia como dona de casa. Quem sabe ela consiga facilitar a sua vida também. Experimente o aplicativo e depois me conte.
-
-- [@octokatherine](https://www.github.com/Carla-coder)
+- [@octokatherine - Carla](https://www.github.com/Carla-coder)
+- [@octokatherine - Leticia](https://www.github.com/lehhofman)
 
