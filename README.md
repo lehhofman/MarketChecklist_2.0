@@ -14,14 +14,9 @@ Em resumo, o Market Checklist é uma ferramenta essencial para qualquer pessoa q
 
 - Print das telas
 
-- Web
-
-![pagina web](https://github.com/user-attachments/assets/aa3fc8b3-32d9-407c-8aa8-fc442f64c27a)
-
-- Mobile
-
-![pagina mobile](https://github.com/user-attachments/assets/7056d5b1-0fc6-4cd3-bb34-6f4979868e95)
-
+![Login](docs/Login.png)
+![Login](docs/Cadastro.png)
+![Login](docs/home.png)
 
 # Funcionalidades
 
