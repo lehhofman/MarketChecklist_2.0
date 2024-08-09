@@ -12,16 +12,11 @@ Outro destaque do Market Checklist é seu design responsivo, que se adapta perfe
 
 Em resumo, o Market Checklist é uma ferramenta essencial para qualquer pessoa que deseja otimizar suas compras de supermercado, economizando tempo e reduzindo o estresse associado ao processo de compras. O Market Checklist se destaca como uma solução moderna e eficaz para o gerenciamento de listas de compras. Chega de perder tempo fazendo sua lista em papel.
 
-- Print das telas
+- Telas
 
-- Web
-
-![pagina web](https://github.com/user-attachments/assets/aa3fc8b3-32d9-407c-8aa8-fc442f64c27a)
-
-- Mobile
-
-![pagina mobile](https://github.com/user-attachments/assets/7056d5b1-0fc6-4cd3-bb34-6f4979868e95)
-
+![Login](docs/Login.png)
+![Login](docs/Cadastro.png)
+![Login](docs/home.png)
 
 # Funcionalidades
 
@@ -62,6 +57,7 @@ MarketChecklist/
 │      └── logo.png
 ├── src/
 │      ├── pages/
+|          |──  Login.js
 │          └──  Home.js
 ├── .gitignore
 ├── App.js     
@@ -73,6 +69,10 @@ MarketChecklist/
 ```
 
 # Sessões do Aplicativo
+
+- **Login.js:**
+
+   - Tela onde realiza seu cadastro, ou se ja houver um cadastro você apenas ira ter que fazer o login.
 
 - **Home.js:**
 
@@ -207,19 +207,11 @@ eas build -p android --profile preview
 
 
 
+## Criadoras do Projeto
 
+- Este projeto foi criado por Carla Coder e Leticia Hofman. Carla e Leticia são desenvolvedoras de software adquirindo experiência em diversas tecnologias e atualmente focada no desenvolvimento de aplicações mobile e web.
+- Criamos este aplicativo para facilitar seu dia a dia como dona de casa. Quem sabe ela consiga facilitar a sua vida também. Experimente o aplicativo e depois me conte.
 
-
-
-
-
-
-
-
-## Criador do Projeto
-
-- Este projeto foi criado por Carla Coder. Carla é uma desenvolvedora de software adquirindo experiência em diversas tecnologias e atualmente focada no desenvolvimento de aplicações mobile e web.
-- Carla criou este aplicativo para facilitar seu dia a dia como dona de casa. Quem sabe ela consiga facilitar a sua vida também. Experimente o aplicativo e depois me conte.
-
-- [@octokatherine](https://www.github.com/Carla-coder)
+- [@octokatherine - Carla](https://www.github.com/Carla-coder)
+- [@octokatherine - Leticia](https://www.github.com/lehhofman)
 
