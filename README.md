@@ -12,7 +12,7 @@ Outro destaque do Market Checklist é seu design responsivo, que se adapta perfe
 
 Em resumo, o Market Checklist é uma ferramenta essencial para qualquer pessoa que deseja otimizar suas compras de supermercado, economizando tempo e reduzindo o estresse associado ao processo de compras. O Market Checklist se destaca como uma solução moderna e eficaz para o gerenciamento de listas de compras. Chega de perder tempo fazendo sua lista em papel.
 
-- Print das telas
+- Telas
 
 ![Login](docs/Login.png)
 ![Login](docs/Cadastro.png)
